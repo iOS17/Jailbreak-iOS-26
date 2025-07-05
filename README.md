@@ -23,6 +23,9 @@ The process involves enrolling in the developer beta program, accessing settings
 
 - Step 01: Open iPhone Settings > Software Update > Beta Update
 - Step 02: Select iOS 26 beta > Tap the Back button > Tap the Update button.
+  
+  ![How to install iOS 26 beta for Jailbreak ](https://github.com/user-attachments/assets/7307cf2b-5c28-4cd7-81c6-6fb17fe2b568)
+
 
 || If your iDevice software update section doesn't have a 'Beta Updates' option, follow the guide below. 
 
@@ -31,7 +34,10 @@ The process involves enrolling in the developer beta program, accessing settings
 - Step 03: Tap 'Login' and log in to your Apple account that you used on the device. 
 - Step 04: Follow the on-screen instructions, and then log in. Once you have logged in, restart your device.
 - Step 05: To restart your device, hold the Side button + Volume Down together, then turn off your iDevice. 
-- Step 06: iPhone Settings > Software Update > Beta Update, then select iOS 26 and tap the update button. 
+- Step 06: iPhone Settings > Software Update > Beta Update, then select iOS 26 and tap the update button.\
+
+  ![iPhone Upgrade iOS 26 to install cydia and sileo for jailbreak iOS 26](https://github.com/user-attachments/assets/02ea46ab-9d17-4ff8-9555-668b1d9e5d62)
+
 
 Note* You are aware that to do this software update, you can use the [https://udidmasters](https://udidmasters) service.
 Once you update your iDevice to the latest version, you can install tweaks, jailbreak apps, games, and more freely. 
