@@ -69,3 +69,13 @@ While no actual untethered jailbreak exists for iOS 26, several tools claim comp
 - Nipzu - Offers Cydia lite, Sileo lite, Zebra options
 - Challex Retriever - Swipe-method installation with 15+ categories
 
+  ## Jailbreak Tweak Master/Manager iOS 26
+
+Jailbreak tweak master is a powerful iOS package manager that works on both Jailbroken and non-jailbroken devices. The team behind the Jailbreak tweak master team confirmed the tool is now compatible with the latest iOS 18.5 and iOS 26 beta. Additionally, it enables users to unlock their device's full potential by accessing exclusive tweaks, themes, and modifications not available through the Apple file system. Additionally, it offers access to essential jailbreak-related tweaks that can enhance the functionality and customization of your iOS device.
+
+![iOS 26 Jailbreak Tweak Master Fre](https://github.com/user-attachments/assets/46cc4078-da60-4142-918a-8b7f41c1c5e6)
+
+
+[Download Tweak Master iOS 26 Jailbreak](https://udidmaster.com/pro/install.php)
+
+
