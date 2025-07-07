@@ -78,4 +78,13 @@ Jailbreak tweak master is a powerful iOS package manager that works on both Jail
 
 [Download Tweak Master iOS 26 Jailbreak](https://udidmaster.com/pro/install.php)
 
+## Esign Patcher - iPA Signer and Dylib Injector for iOS 26
+
+The official Esign iOS team confirmed that the Esign iOS tool is compatible with iOS 26 and its beta. Esign is a powerful IPA signing tool that is compatible with iOS 17 and earlier versions. With its user-friendly interface, the Esign iOS app is suitable for users of all skill levels, from beginners to advanced. Additionally, this is an Ondevice iPA signer tool, which means you don't need a PC or a Mac to sideload and install IPA files. Also, the Esign iOS tool now supports custom-made iOS developer Certificates. 
+Telegram bot for free e-signature certificates: 
+
+
+
+[Download the Esign iOS app for iOS 26 ](https://esigncert.zeejb.com/)
+
 
